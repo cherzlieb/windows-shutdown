@@ -1,0 +1,42 @@
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe.config
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.pdb
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.xml
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\de-DE\WindowsShutdown.resources.dll
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Resources.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.de-DE.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbproj.GenerateResource.Cache
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\de-DE\WindowsShutdown.resources.dll
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.exe
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.xml
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.pdb
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbprojResolveAssemblyReference.cache
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe.config
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.exe
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.xml
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.pdb
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.pdb
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.xml
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\de-DE\WindowsShutdown.resources.dll
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbprojResolveAssemblyReference.cache
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.resources
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Resources.resources
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.de-DE.resources
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbproj.GenerateResource.Cache
+D:\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\de-DE\WindowsShutdown.resources.dll
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe.config
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.exe
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.xml
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.pdb
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.pdb
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.xml
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Debug\de-DE\WindowsShutdown.resources.dll
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbprojResolveAssemblyReference.cache
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.resources
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Resources.resources
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.Form1.de-DE.resources
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\WindowsShutdown.vbproj.GenerateResource.Cache
+H:\_Datenablage\__Übungen\Visual Studio\VB_dotNet\0006 - WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Debug\de-DE\WindowsShutdown.resources.dll

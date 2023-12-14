@@ -1,0 +1,13 @@
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.exe.config
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.exe
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.pdb
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.xml
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.Form1.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.Resources.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.vbproj.GenerateResource.Cache
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.exe
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.xml
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.pdb
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\bin\Release\de-DE\WindowsShutdown.resources.dll
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\WindowsShutdown.Form1.de-DE.resources
+D:\_Übungen\Visual Studio\WindowsShutdown\WindowsShutdown\WindowsShutdown\obj\Release\de-DE\WindowsShutdown.resources.dll

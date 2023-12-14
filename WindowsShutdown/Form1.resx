@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txt_note_00.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt</value>
+  </data>
+  <data name="txt_note_00.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 220</value>
+  </data>
+  <data name="txt_note_00.Size" type="System.Drawing.Size, System.Drawing">
+    <value>500, 13</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txt_note_00.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="txt_note_00.Text" xml:space="preserve">
+    <value>Anmerkung: Windows-Laufzeit und Restzeit werden in 
+Tage : Stunden : Minuten : Sekunden angegeben!</value>
+  </data>
+  <data name="&gt;&gt;txt_note_00.Name" xml:space="preserve">
+    <value>txt_note_00</value>
+  </data>
+  <data name="&gt;&gt;txt_note_00.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_note_00.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_note_00.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="line_04.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="line_04.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 210</value>
+  </data>
+  <data name="line_04.Size" type="System.Drawing.Size, System.Drawing">
+    <value>480, 2</value>
+  </data>
+  <data name="line_04.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;line_04.Name" xml:space="preserve">
+    <value>line_04</value>
+  </data>
+  <data name="&gt;&gt;line_04.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;line_04.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;line_04.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txt_EA_time_rest.Location" type="System.Drawing.Point, System.Drawing">
+    <value>366, 182</value>
+  </data>
+  <data name="txt_EA_time_rest.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 20</value>
+  </data>
+  <data name="txt_EA_time_rest.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="txt_EA_time_rest.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_rest.Name" xml:space="preserve">
+    <value>txt_EA_time_rest</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_rest.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_rest.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_rest.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txt_time_rest.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 185</value>
+  </data>
+  <data name="txt_time_rest.Size" type="System.Drawing.Size, System.Drawing">
+    <value>317, 13</value>
+  </data>
+  <data name="txt_time_rest.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="txt_time_rest.Text" xml:space="preserve">
+    <value>Restliche Zeit bis zum herunterfahren des PC´s:</value>
+  </data>
+  <data name="&gt;&gt;txt_time_rest.Name" xml:space="preserve">
+    <value>txt_time_rest</value>
+  </data>
+  <data name="&gt;&gt;txt_time_rest.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_time_rest.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_time_rest.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="line_03.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="line_03.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 171</value>
+  </data>
+  <data name="line_03.Size" type="System.Drawing.Size, System.Drawing">
+    <value>480, 2</value>
+  </data>
+  <data name="line_03.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="&gt;&gt;line_03.Name" xml:space="preserve">
+    <value>line_03</value>
+  </data>
+  <data name="&gt;&gt;line_03.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;line_03.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;line_03.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="line_01.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="line_01.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 97</value>
+  </data>
+  <data name="line_01.Size" type="System.Drawing.Size, System.Drawing">
+    <value>480, 2</value>
+  </data>
+  <data name="line_01.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="&gt;&gt;line_01.Name" xml:space="preserve">
+    <value>line_01</value>
+  </data>
+  <data name="&gt;&gt;line_01.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;line_01.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;line_01.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="line_02.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="line_02.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 127</value>
+  </data>
+  <data name="line_02.Size" type="System.Drawing.Size, System.Drawing">
+    <value>480, 2</value>
+  </data>
+  <data name="line_02.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;line_02.Name" xml:space="preserve">
+    <value>line_02</value>
+  </data>
+  <data name="&gt;&gt;line_02.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;line_02.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;line_02.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="line_00.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="line_00.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 67</value>
+  </data>
+  <data name="line_00.Size" type="System.Drawing.Size, System.Drawing">
+    <value>480, 2</value>
+  </data>
+  <data name="line_00.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="&gt;&gt;line_00.Name" xml:space="preserve">
+    <value>line_00</value>
+  </data>
+  <data name="&gt;&gt;line_00.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;line_00.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;line_00.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="txt_Contdown_stop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>261, 143</value>
+  </data>
+  <data name="txt_Contdown_stop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 13</value>
+  </data>
+  <data name="txt_Contdown_stop.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="txt_Contdown_stop.Text" xml:space="preserve">
+    <value>Countdown abbrechen:</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_stop.Name" xml:space="preserve">
+    <value>txt_Contdown_stop</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_stop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_stop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_stop.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="txt_Contdown_start.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 143</value>
+  </data>
+  <data name="txt_Contdown_start.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 13</value>
+  </data>
+  <data name="txt_Contdown_start.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="txt_Contdown_start.Text" xml:space="preserve">
+    <value>Countdown starten:</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_start.Name" xml:space="preserve">
+    <value>txt_Contdown_start</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_start.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_start.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_Contdown_start.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="num_seconds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>410, 34</value>
+  </data>
+  <data name="num_seconds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 20</value>
+  </data>
+  <data name="num_seconds.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="num_seconds.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;num_seconds.Name" xml:space="preserve">
+    <value>num_seconds</value>
+  </data>
+  <data name="&gt;&gt;num_seconds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;num_seconds.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;num_seconds.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="num_minutes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 34</value>
+  </data>
+  <data name="num_minutes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 20</value>
+  </data>
+  <data name="num_minutes.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="num_minutes.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;num_minutes.Name" xml:space="preserve">
+    <value>num_minutes</value>
+  </data>
+  <data name="&gt;&gt;num_minutes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;num_minutes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;num_minutes.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="num_hours.Location" type="System.Drawing.Point, System.Drawing">
+    <value>130, 34</value>
+  </data>
+  <data name="num_hours.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 20</value>
+  </data>
+  <data name="num_hours.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="num_hours.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;num_hours.Name" xml:space="preserve">
+    <value>num_hours</value>
+  </data>
+  <data name="&gt;&gt;num_hours.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;num_hours.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;num_hours.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="txt_seconds.Location" type="System.Drawing.Point, System.Drawing">
+    <value>349, 37</value>
+  </data>
+  <data name="txt_seconds.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
+  </data>
+  <data name="txt_seconds.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="txt_seconds.Text" xml:space="preserve">
+    <value>Sekunden: </value>
+  </data>
+  <data name="&gt;&gt;txt_seconds.Name" xml:space="preserve">
+    <value>txt_seconds</value>
+  </data>
+  <data name="&gt;&gt;txt_seconds.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_seconds.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_seconds.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="txt_EA_time_shutdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>367, 72</value>
+  </data>
+  <data name="txt_EA_time_shutdown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 20</value>
+  </data>
+  <data name="txt_EA_time_shutdown.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="txt_EA_time_shutdown.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_shutdown.Name" xml:space="preserve">
+    <value>txt_EA_time_shutdown</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_shutdown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_shutdown.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_time_shutdown.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="txt_time_shutdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 76</value>
+  </data>
+  <data name="txt_time_shutdown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 13</value>
+  </data>
+  <data name="txt_time_shutdown.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="txt_time_shutdown.Text" xml:space="preserve">
+    <value>eingestellte Zeit in Sekunden:</value>
+  </data>
+  <data name="&gt;&gt;txt_time_shutdown.Name" xml:space="preserve">
+    <value>txt_time_shutdown</value>
+  </data>
+  <data name="&gt;&gt;txt_time_shutdown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_time_shutdown.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_time_shutdown.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="txt_EA_win_time.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 103</value>
+  </data>
+  <data name="txt_EA_win_time.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 20</value>
+  </data>
+  <data name="txt_EA_win_time.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_win_time.Name" xml:space="preserve">
+    <value>txt_EA_win_time</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_win_time.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_win_time.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_EA_win_time.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="txt_win_time.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 107</value>
+  </data>
+  <data name="txt_win_time.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 13</value>
+  </data>
+  <data name="txt_win_time.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="txt_win_time.Text" xml:space="preserve">
+    <value>Windows-Laufzeit:</value>
+  </data>
+  <data name="&gt;&gt;txt_win_time.Name" xml:space="preserve">
+    <value>txt_win_time</value>
+  </data>
+  <data name="&gt;&gt;txt_win_time.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_win_time.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_win_time.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="txt_hours.Location" type="System.Drawing.Point, System.Drawing">
+    <value>79, 38</value>
+  </data>
+  <data name="txt_hours.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 13</value>
+  </data>
+  <data name="txt_hours.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="txt_hours.Text" xml:space="preserve">
+    <value>Stunden: </value>
+  </data>
+  <data name="&gt;&gt;txt_hours.Name" xml:space="preserve">
+    <value>txt_hours</value>
+  </data>
+  <data name="&gt;&gt;txt_hours.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_hours.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_hours.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="txt_minutes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 38</value>
+  </data>
+  <data name="txt_minutes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 13</value>
+  </data>
+  <data name="txt_minutes.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="txt_minutes.Text" xml:space="preserve">
+    <value>Minuten: </value>
+  </data>
+  <data name="&gt;&gt;txt_minutes.Name" xml:space="preserve">
+    <value>txt_minutes</value>
+  </data>
+  <data name="&gt;&gt;txt_minutes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_minutes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_minutes.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="txt_windows_shutdown_question.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 10</value>
+  </data>
+  <data name="txt_windows_shutdown_question.Size" type="System.Drawing.Size, System.Drawing">
+    <value>336, 13</value>
+  </data>
+  <data name="txt_windows_shutdown_question.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="txt_windows_shutdown_question.Text" xml:space="preserve">
+    <value>In wie viel Minuten und Stunden soll der PC runtergefahren werden?</value>
+  </data>
+  <data name="&gt;&gt;txt_windows_shutdown_question.Name" xml:space="preserve">
+    <value>txt_windows_shutdown_question</value>
+  </data>
+  <data name="&gt;&gt;txt_windows_shutdown_question.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_windows_shutdown_question.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_windows_shutdown_question.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="btn_cancel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>394, 138</value>
+  </data>
+  <data name="btn_cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btn_cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="btn_cancel.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="&gt;&gt;btn_cancel.Name" xml:space="preserve">
+    <value>btn_cancel</value>
+  </data>
+  <data name="&gt;&gt;btn_cancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_cancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_cancel.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <metadata name="Timer01.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>38, 53</value>
+  </metadata>
+  <data name="btn_start.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_start.Location" type="System.Drawing.Point, System.Drawing">
+    <value>149, 138</value>
+  </data>
+  <data name="btn_start.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btn_start.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="btn_start.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="&gt;&gt;btn_start.Name" xml:space="preserve">
+    <value>btn_start</value>
+  </data>
+  <data name="&gt;&gt;btn_start.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_start.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_start.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="ProgressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 240</value>
+  </data>
+  <data name="ProgressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>495, 14</value>
+  </data>
+  <data name="ProgressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar1.Name" xml:space="preserve">
+    <value>ProgressBar1</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>514, 261</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>530, 300</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>530, 300</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Windows herunterfahren</value>
+  </data>
+  <data name="&gt;&gt;Timer01.Name" xml:space="preserve">
+    <value>Timer01</value>
+  </data>
+  <data name="&gt;&gt;Timer01.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
